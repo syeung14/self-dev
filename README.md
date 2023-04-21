@@ -8,13 +8,6 @@
 
 
 
-
-
-
-
-
-
-
 [Science - Common knowledge]
 * https://www.youtube.com/@bigthink
 
@@ -99,3 +92,6 @@ Why Complimenting Women Doesn't Work
 [presentation example]
 AWS re:Invent 2022 - Nasdaq: Moving mission-critical, low-latency workloads to AWS (FSI312)
 - https://www.youtube.com/watch?v=GCjx8GVIIIA
+
+
+[War]

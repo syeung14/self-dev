@@ -20,3 +20,10 @@ https://www.grammarly.com/blog/search/phrasal%20verbs
 []
 https://www.englishclub.com/writing/
 https://englishgrammarhere.com/speaking/1000-most-common-english-phrases-pdf/
+
+
+
+[Nina example]
+I will only have had it for 2 months if you want me to turn it in this week.
+She will be doing that
+She'll have done that before she retires

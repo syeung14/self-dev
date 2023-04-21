@@ -107,30 +107,55 @@ that they might not recive otherwise.a
   * Prepositional phrases
 - Ch12  
   * Compound: 
-    - commma and a coordinating conjunction
+    - a comma and a conjunction (`and`-combination, `but`-contrast, `or`-alternatives and `so`-result) + (for, nor, yet
+    - Compound subject, compound verb
+  * `Soft` period p314
     - with a semicolon `;`
-  * Transitional expressions
-    - 
-- Ch13
+      - Watching basketball is fun; playing it is better.
+  * Building longer compound sentences (`type a, b`)
+    * p318 - descriptive words (adjectives+adverbs) and `prepositional phrase`
+      - 
+  * `Run-ons` and comma splices (p334)
+    - Class ended, then we left (x)
+    - p338 - `personal pronouns, demonstrative pronouns, additive expressions, transitional expressions` (sentence variety)
+      - fix with conjunction or use a semicolon followed by the above types ^^^
+    - Transitional expressions (p345)
+      - My uncle refused to pay his bill; furthermore, he wrote a rude message.
+      - [with a semicolon (alone or with a transitional expression followed by a comma)]
+      - Tom added lighter fluid; however, the charcoal would not ignite.
+  * 
+- Ch13 - The Complex Sentence
   * Coordinating conjunctions (and/but/so/or (nor, yet, for))
-    * Our team won, so we celebrated
-    * Since our team won, we celebrated
-  * Subordinating conjunctions
-    after / as / before/when/while/although/even though/because, since
+    - Our team won, so we celebrated
+    - Since our team won, we celebrated
+  * `Subordinating conjunctions` p355
+    - after/as/before/when/while/ ()
+    - although/even though/
+    - because, since
+    - if/even if/unless/until
+  * p366 
+  * building sentence variety (p367) with subordinating conjunction (`type c, d`)
+    - p368 table for sentence variety (different style/meaning)
   * Transitional exressions:
     - futhermore / in addition / moreover
       if,evenif, unless, until/ on the other hand
+  * p373 (punctuation)
+    - subordinating conjunction in the middle of a sentence
+  * sentence fragment (p374)
+    - is a word group that is missing a subject or verb or that doesn't express a complete thought.
+    - 
 - Ch14 more complex sentences
-  * Descriptive Clause (they appear directly after the word tehy describe)
+  * `Descriptive Clause` (they appear directly after the word they describe)
     * The team that won celebrated
   * that 
     *  The pipe that broken was frozen.
   * which 
     * the cookbook, which was a birtyday gift, has many color photos.
-  * who /whom
+  * who/whom
     * the patient who fainted fell down.
     * the girl whom Jim invited could not come.
                     ^^^ another noun or pronoun
+    * p394
   * where 
     * the club where we danced closed down.
   * when
@@ -139,6 +164,11 @@ that they might not recive otherwise.a
     * noun + verb
   * `that or which` - necessary or optional information
   * `where or when `
+  * building longer sentences with clauses
+  * building sentence variety (p400) - use everything together!
+    - 
+  [sentence example]
+  https://learning.oreilly.com/library/view/functional-programming-in/9781941222690/f_0028.html#:-:text=If%20any%20name%20was%20longer%20th,e%2C%20Steve%20in%20this%20example.
 - Ch15 - modifying phrases
   * There are twp simple sentences, instead of having two separate subjects and verbs, we can turn one of them into a modifying phrase.
     * and `-ing` phrase : one action that is ongoing at the same time as another

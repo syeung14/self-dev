@@ -9,4 +9,7 @@ https://www.youtube.com/@theschooloflifetv
 
 [How to Be Comfortable Being Alone | Robin Sharma](https://www.youtube.com/watch?v=oLxafxniWZc)
 
+[4 Tactics to Becoming a Genius Communicator | Robin Sharma](https://www.youtube.com/watch?v=Z5A-ZskVHRA)
 
+## Business&Marketing
+[7 Brand Psychology Hacks to Use in Your Business](https://www.youtube.com/watch?v=rB5aovw1q9w&t=677s)
