@@ -27,6 +27,14 @@ virtue
 
 tavern
 
+meal/milk
+bridge/beach/bitch
+
+shirtless
+
+wasn't aware(adj.) of..
+
+
 https://www.youtube.com/watch?v=soZc03vH_qQ
     - 
 https://www.youtube.com/watch?v=tR1ECf4sEpw
@@ -49,4 +57,5 @@ piercing/pick
 prick
 
 lost cause
+Smh (Shaking my head)
 

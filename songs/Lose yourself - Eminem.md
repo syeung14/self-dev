@@ -47,7 +47,7 @@ God only knows, he's grown farther from home, he's no father
 He goes home and barely knows his own daughter
 But hold your nose, 'cause here goes the `cold water`
 These hoes don't want him no more, he's cold product
-They moved on to the next `schmoe` who flows        [dude/simp]
+They moved on to the next `schmoe` who flows        [shi-mo][dude/simp]
 He nose-dove and sold `nada`, and so the `soap opera`     [nada-nothing`]
 Is told, it unfolds, I suppose it's old, partner
 But the beat goes on, da-da-dom, da-dom, dah-dah, dah-dah
@@ -72,7 +72,7 @@ But I kept rhymin' and stepped right in the next `cypher`
 Best believe somebody's payin' the `Pied Piper`          [dark fairy tail]
 All the pain inside amplified by the
 Fact that I can't get by with my nine-to-
-Five and I can't provide the right type of life for my family
+`Five and I` can't provide the right type of life for my family
 'Cause man, these goddamn food stamps don't buy diapers
 And there's no movie, there's no `Mekhi Phifer`, this is my life
 And these times are so hard, and it's gettin' even harder

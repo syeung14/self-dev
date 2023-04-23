@@ -113,7 +113,7 @@ that they might not recive otherwise.a
     - with a semicolon `;`
       - Watching basketball is fun; playing it is better.
   * Building longer compound sentences (`type a, b`)
-    * p318 - descriptive words (adjectives+adverbs) and `prepositional phrase`
+    * p318 - `descriptive words` (adjectives+adverbs) and `prepositional phrase`
       - 
   * `Run-ons` and comma splices (p334)
     - Class ended, then we left (x)
@@ -170,10 +170,11 @@ that they might not recive otherwise.a
   [sentence example]
   https://learning.oreilly.com/library/view/functional-programming-in/9781941222690/f_0028.html#:-:text=If%20any%20name%20was%20longer%20th,e%2C%20Steve%20in%20this%20example.
 - Ch15 - modifying phrases
-  * There are twp simple sentences, instead of having two separate subjects and verbs, we can turn one of them into a modifying phrase.
-    * and `-ing` phrase : one action that is ongoing at the same time as another
-    * a `to` phrase : a desired action / goal
-    * an `-ed` phrase :  condition of someone or something
+  * There are twp simple sentences, instead of having two separate subjects and verbs, we can `turn one of them into a modifying phrase.`
+    - writing more `musical` sentences
+    * and `-ing` phrase (present participle): one action that is ongoing at the same time as another
+    * a `to` phrase (infinitive phrase): a desired action / goal
+    * an `-ed` phrase (past participle):  condition of someone or something
 
   * the Criminal entered the courtroom. He smiled at the jury.
     * `Entering the courtroom,` the criminal smiled at the jury.
@@ -189,17 +190,22 @@ that they might not recive otherwise.a
   * Stolen on New Year's Day, my car was never found.
   * Damaged during the moe, our antique clock will not keep the correct time.
 
-  * when the modifiers are in the begining of a sentence: 
+  * when the modifiers are `in the begining` of a sentence: 
     * The subject of the sentence must come immediately after the comma.
     * This subject must connect with the action in the modiﬁer.
-  * in the middle or at the end
+  * `in the middle` or `at the end`
     * The Judge, annoyed by the attorney, called a recess.
     * Deirdre fell into a deep sleep listening to classical music.
   * Avoid misplaced modifier - modifiers are right before and after the words the phrase is describing.
 
-  1: the subject of the sentence must come immediately after the comma.
-  2: the subject must connnect with the action in the modifier.
-
+  * How to start a sentences: p432
+    - modifying phrase
+      1: the subject of the sentence must come immediately after the comma.
+      2: the subject must connnect with the action in the modifier.
+    - transitional expressions
+    - prepositional phrases
+    - A simple adverb
+    - 
 
 [Detective writing]
 - the following: 

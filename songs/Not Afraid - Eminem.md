@@ -1,4 +1,5 @@
 Not Afraid - Eminem
+https://www.youtube.com/watch?v=j5-yKhDd64s&list=RDEMASZzAB4N6PSfsOwzAhxYyQ&start_radio=1
  
 I'm not afraid (I'm not afraid)
 Yeah
@@ -15,16 +16,18 @@ If you're tryna get out (just lettin' you know that you're not alone)
 Just follow me (holla if you `feel` like you've been down the same road)
 I'll get you there
 
+https://youtu.be/j5-yKhDd64s?list=RDEMASZzAB4N6PSfsOwzAhxYyQ&t=23
 You can try and read my lyrics off of this paper before I lay'em         (laid)
 But you won't take the sting out these words before I say'em
 'Cause ain't no way I'ma let you stop me from causin' mayhem  [i'm gonna -> i'ma]
 When I say I'ma do somethin', I do it
 I don't give a damn what you think
-I'm doin' this for me, so fuck the world, `feed it beans`   - `("to feed them beans" - to lie; to deceive; to tell a bunch of bullshit to someone (usually authorities).)`
-It's gassed up, if it thinks it's stoppin' me
+I'm doin' this for me, so fuck the world, `feed it beans`   - `("to feed them beans" - to lie; to deceive; 
+                                                               to tell a bunch of bullshit to someone (usually authorities).)`
+It's gassed `up`, if it thinks it's stoppin' me
 I'ma be what I set out to be, without a doubt, undoubtedly
 And all those who look down on me, I'm tearin' down your balcony
-No if, ands or buts, don't try to ask him why or how can he
+No if, ands or `buts`, don't try to ask him why or how can he
 From "Infinite" down to the last "Relapse" album he's still shittin'
 Whether he's on salary, paid hourly, until he `bows` out or he shits his bowels out of him
 Whichever comes first, for better or worse
@@ -51,7 +54,7 @@ I promise to never go back on that promise
 In fact, let's be honest, that last "Relapse" CD was eh     (compact disk)
 Perhaps I ran them accents into the ground              (run sth into the ground)
 Relax, I ain't goin' back to that now
-All I'm tryna say is get back, click-clack, blaow, 'cause I ain't playin' around
+All I'm tryna say is get back, click-clack, blaow, 'cause I ain't playin' around   [click-clack:sound]
 There's a game called circle and I don't know how
 I'm way too up to back down
 But I think I'm still tryna figure this crap out
@@ -68,6 +71,7 @@ Whatever weather, cold or warm
 Just lettin' you know that you're not alone
 Holla if you feel like you've been down the same road
 
+https://www.youtube.com/watch?v=j5-yKhDd64s&list=RDEMASZzAB4N6PSfsOwzAhxYyQ&t=159s
 And I just can't keep living this way
 So starting today
 I'm breaking out of this cage
@@ -75,9 +79,11 @@ I'm standing up, I'ma face my demons
 I'm manning up, I'ma hold my ground
 I've had enough, now I'm so fed up
 Time to put my life back together right now (now)
+
+https://www.youtube.com/watch?v=j5-yKhDd64s&list=RDEMASZzAB4N6PSfsOwzAhxYyQ&t=179s
 It was my decision to get clean, I did it for me
 Admittedly, I probably did it subliminally for you
-So I could come back a brand new me, you helped see me through
+So I could come back a brand new me, you helped `see me through`
 And don't realize what you did, ('cause) believe me you
 I been through the `wringer`, but they could do little to the middle finger    (wringer:)
 I think I got a tear in my eye, I feel like the king of
