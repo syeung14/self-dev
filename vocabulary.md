@@ -58,4 +58,18 @@ prick
 
 lost cause
 Smh (Shaking my head)
+Garden Leave
 
+cunning
+decorum - etiquette
+
+## [email like a boss]
+Thanks for your patience?
+Could you do...?   (instead of what works best for you?)
+Always happy to help?
+It's be best if we ...
+It'd be easier to discuss in person.
+Let me know if you have nay questions?
+Wen can I expect an update?
+Thanks for letting me know.
+I will need to leave for at...
