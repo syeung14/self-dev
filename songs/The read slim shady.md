@@ -26,7 +26,7 @@ Feminist women love Eminem
 "Chicka, chicka, chicka, Slim Shady, I'm sick of him
 Look at him, walkin' around, grabbin' his you-know-what
 `Flippin'` the you-know-who," "Yeah, but he's so cute though"  [flippin' - show the finger]
-Yeah, I probably got a couple of screws up in my head loose
+Yeah, I probably got a couple of screws up in my `head loose`
 But no worse than what's goin' on in your parents' bedrooms
 Sometimes I wanna get on TV and just let loose
 But can't, but it's cool for Tom Green to `hump` a dead moose      [intercourse]
@@ -42,7 +42,7 @@ Who cut other people open like `cantaloupes`     [fruit]
 But if we can hump dead animals and `antelopes`    [deer like]
 Then there's no reason that a man and another man can't `elope` [get married]
 But if you feel like I feel, I got the `antidote`        [cure/substance]
-Women, wave your pantyhose, sing the chorus, and it goes—   [thin piece]
+Women, wave your `pantyhose`, sing the chorus, and it goes—   [thin piece]
 [Chorus]
 I'm Slim Shady, yes, I'm the real Shady
 All you other Slim Shadys are just imitating [mimic/imminent/intimate] 
@@ -53,11 +53,11 @@ All you other Slim Shadys are just imitating
 So won't the real Slim Shady please stand up
 Please stand up, please stand up?
 
-[Verse 2]
+[Verse 2]https://www.youtube.com/watch?v=UMPofnwxgKI&t=100s
 Will Smith don't gotta `cuss` in his raps to sell records (Nope)   [cuss/swear]
 Well, I do, so fuck him and fuck you too!
 You think I give a damn about a GRAMMY?
-Half of you critics can't even `stomach me`, let alone stand me    [handle me/stand]
+Half of you critics can't even `stomach me`, let alone stand me    [put up with/handle me/stand]
 "But Slim, what if you win, wouldn't it be weird?"
 Why, so you guys could just lie to get me here?
 So you can sit me here next to `Britney Spears`?
@@ -84,14 +84,14 @@ All you other Slim Shadys are just imitating
 So won't the real Slim Shady please stand up
 Please stand up, please stand up?
 
-[Verse 3]
+[Verse 3] https://www.youtube.com/watch?v=UMPofnwxgKI&t=165s
 I'm like a `head trip` to listen to, 'cause I'm only givin' you   [leads to upset]self-gratification
 Things you joke about with your friends inside your livin' room
 The only difference is I got the balls to say it in front of y'all
 And I don't gotta be false or sugarcoat it at all
 I just get on the mic and spit it
 And whether you like to admit it, I just shit it
-Better than ninety percent of you rappers out can
+Better than ninety percent of you rappers, out can
 Then you wonder: "How can kids eat up these albums like `Valiums?`"  [drug]
 It's funny, 'cause at the rate, I'm going, when I'm thirty
 I'll be the only person in the nursing home flirting
