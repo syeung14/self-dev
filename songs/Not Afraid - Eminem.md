@@ -1,24 +1,29 @@
 Not Afraid - Eminem
 https://www.youtube.com/watch?v=j5-yKhDd64s&list=RDEMASZzAB4N6PSfsOwzAhxYyQ&start_radio=1
  
+https://www.youtube.com/watch?v=w7qe94_XzN8
+https://www.youtube.com/watch?v=GDC2p7S6-jY
+
+https://www.youtube.com/watch?v=eYaSNZRbFsA     (easy to follow)
+
 I'm not afraid (I'm not afraid)
 Yeah
 To take a stand (to take a stand)
-It's been a ride
+> It's been a ride
 Everybody (everybody)
-I guess I had to go to that place
+> I guess I had to go to that place
 Come take my hand (come take my hand)
-To get to this one
+> To get to this one
 We'll walk this road together, through the storm
-Now some of you might `still` be in that place
+> Now some of you might `still` be in that place
 Whatever weather, cold or warm
-If you're tryna get out (just lettin' you know that you're not alone)
-Just follow me (holla if you `feel` like you've been down the same road)
-I'll get you there
+> If you're tryna get out (just lettin' you know that you're not alone)
+> Just follow me (holla if you `feel` like you've been down the same road)
+> I'll get you there
 
 https://youtu.be/j5-yKhDd64s?list=RDEMASZzAB4N6PSfsOwzAhxYyQ&t=23
 You can try and read my lyrics off of this paper before I lay'em         (laid)
-But you won't take the sting out these words before I say'em
+But you won't take the `sting out these words` before I say'em
 'Cause ain't no way I'ma let you stop me from causin' mayhem  [i'm gonna -> i'ma]
 When I say I'ma do somethin', I do it
 I don't give a damn what you think

@@ -1,4 +1,3 @@
-
 https://docs.google.com/document/d/10JptAAsrtYDdp-UJ61M_4NxSNF-8zsLGvYhGG_IBrow/edit
 
 [pronunciation]
@@ -7,8 +6,6 @@ stellar:
     - a stellar performance
     - interstellar []
 
-frame
-    - 
 flame
     - 
 
@@ -62,14 +59,32 @@ Garden Leave
 
 cunning
 decorum - etiquette
+due diligence
 
-## [email like a boss]
-Thanks for your patience?
-Could you do...?   (instead of what works best for you?)
-Always happy to help?
-It's be best if we ...
-It'd be easier to discuss in person.
-Let me know if you have nay questions?
-Wen can I expect an update?
-Thanks for letting me know.
-I will need to leave for at...
+mediocrity
+
+starve out
+pan out 
+    - end up; conclude.
+    - to force somebody to leave a particular building or area by not allowing them to get any food. If they won't come out, we'll starve them out!
+
+weighing down - to cause to bend down/overburden
+              - Get rid of anything that weighs down your spirit.
+crop up:appear, occur
+
+DfD:
+A date for a date is a common term in technology companies for the date by which you expect to have determined another date.x
+
+ECD: estimated completion date
+
+a swarm of
+enormous amounts of
+small amounts 
+colossal amounts
+... large amounts of data. 
+... large amounts of binary data. 
+Similarly, clobs, represented by the CLOB datatype, hold large amounts of text data..
+
+
+
+https://www.urbandictionary.com/define.php?term=Loc%27d

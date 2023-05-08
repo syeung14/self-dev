@@ -2,6 +2,8 @@ https://genius.com/Eminem-lose-yourself-lyrics
 https://www.youtube.com/watch?v=7YuAzR2XVAM
 https://www.youtube.com/watch?v=aV8GCQ34biA&ab_channel=HIPHOPMIX
 
+https://www.youtube.com/watch?v=ylFjzKwrhzo
+
 [Intro]
 Look, if you had one shot or one opportunity
 To seize everything you ever wanted in one moment

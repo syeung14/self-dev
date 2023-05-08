@@ -27,3 +27,16 @@ https://englishgrammarhere.com/speaking/1000-most-common-english-phrases-pdf/
 I will only have had it for 2 months if you want me to turn it in this week.
 She will be doing that
 She'll have done that before she retires
+
+
+## [email like a boss]
+Thanks for your patience?
+Could you do...?   (instead of what works best for you?)
+Always happy to help?
+It's be best if we ...
+It'd be easier to discuss in person.
+Let me know if you have any questions?
+When can I expect an update?
+Thanks for letting me know.
+I will need to leave for at...
+

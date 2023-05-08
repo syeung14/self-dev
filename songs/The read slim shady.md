@@ -63,7 +63,7 @@ Why, so you guys could just lie to get me here?
 So you can sit me here next to `Britney Spears`?
 Shit, `Christina Aguilera` better switch me chairs
 So I can sit next to `Carson Daly` and `Fred Durst`
-And hear 'em argue over who she gave head to first
+And hear'em argue over who she gave head to first
 Little bitch put me on blast on MTV
 "Yeah, he's cute, but I think he's married to Kim, hee-hee"
 I should download her audio on MP3
@@ -85,7 +85,7 @@ So won't the real Slim Shady please stand up
 Please stand up, please stand up?
 
 [Verse 3] https://www.youtube.com/watch?v=UMPofnwxgKI&t=165s
-I'm like a `head trip` to listen to, 'cause I'm only givin' you   [leads to upset]self-gratification
+I'm like a `head trip` to listen to, 'cause I'm only givin' you   [leads to upset][an intellectually stimulating experience.]self-gratification
 Things you joke about with your friends inside your livin' room
 The only difference is I got the balls to say it in front of y'all
 And I don't gotta be false or sugarcoat it at all

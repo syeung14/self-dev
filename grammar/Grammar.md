@@ -101,7 +101,7 @@ cause / cherish / value / treasure / upgrade
 Supporting children with memtors and after-school programs will gie these children opportunities and guidance
 that they might not recive otherwise.a
 
-[Bedford - Stepping stones A guided approach to writing sentences ....]
+## [Bedford - Stepping stones A guided approach to writing sentences ....]
 - Ch11 - simple sentence
   *
   * Prepositional phrases
@@ -129,24 +129,30 @@ that they might not recive otherwise.a
     - Our team won, so we celebrated
     - Since our team won, we celebrated
   * `Subordinating conjunctions` p355
-    - after/as/before/when/while/ ()
-    - although/even though/
-    - because, since
-    - if/even if/unless/until
-  * p366 
+    - after/as/before/when/while/ (combination)
+    - although/even though/       (contrast)
+    - because, since              (result)
+    - if/even if/unless/until     (alternatives/possibilities)
+  * p366 Forming and punctuating complex sentences - subordinating conjunction
   * building sentence variety (p367) with subordinating conjunction (`type c, d`)
     - p368 table for sentence variety (different style/meaning)
-  * Transitional exressions:
-    - futhermore / in addition / moreover
-      if,evenif, unless, until/ on the other hand
+    * Transitional exressions - p368:
+      - futhermore / in addition / moreover
+        if,evenif, unless, until/ on the other hand
+```
+  However, assigning a different type of task to each worker does not scale well; if several more people show up, it is not obvious how they can help without getting 
+  in the way or significantly restructuring the division of labor.
+```
   * p373 (punctuation)
     - subordinating conjunction in the middle of a sentence
   * sentence fragment (p374)
     - is a word group that is missing a subject or verb or that doesn't express a complete thought.
     - 
-- Ch14 more complex sentences
+- Ch14 More Complex Sentences
   * `Descriptive Clause` (they appear directly after the word they describe)
     * The team that won celebrated
+  * Understanding glue words used in clauses: p384
+    - 
   * that 
     *  The pipe that broken was frozen.
   * which 
@@ -169,6 +175,8 @@ that they might not recive otherwise.a
     - 
   [sentence example]
   https://learning.oreilly.com/library/view/functional-programming-in/9781941222690/f_0028.html#:-:text=If%20any%20name%20was%20longer%20th,e%2C%20Steve%20in%20this%20example.
+  `If any name was longer than the given base, it would get picked up; otherwise the function would return the base value, Steve in this example`
+
 - Ch15 - modifying phrases
   * There are twp simple sentences, instead of having two separate subjects and verbs, we can `turn one of them into a modifying phrase.`
     - writing more `musical` sentences
@@ -207,6 +215,72 @@ that they might not recive otherwise.a
     - A simple adverb
     - 
 
+  [example]
+  * The Java 8 CompletableFuture API provides the thenCompose method specifically for this purpose, 
+    allowing you to pipeline two asynchronous operations, passing the result of the first operation to the second operation when it becomes available. 
+
+## 十天突破雅思写作, 慎小嶷, 第四版, 机械工业出版社, 2010.扫描版.pdf
+### Day 4 
+```
+  - sentences variety * (a lot)
+    A - Phrases in the front. 
+        Overall, I think an ability to keep clear perspective ....
+    B - short phrase - middle
+        This will affect the job market, which, after all, is a key target in any economic plan 
+    C - short phrase - at the end
+    D - adverb
+        ... peole who work less `selfishly` for the good of society...
+        Teachers `continually` complain about this problem and measures should be taken to combat the situation
+    E - Reversed
+        Only in this way can this problem be effecrtively solved
+    F - It is ... that ...; it is..., who..
+    G - conditional
+        Without the natural talent, continuous training would be neither attractive nor productive,...
+    H - Combination of short and long sentences:
+    I - passive and active voices    
+        Satification `is also increased` by a sense of responsibility for and loyality to a team
+        Such professionals should `be much better appreciated` and better `paid`.
+        In conslusion,  I agree that any child can be taught particular skills, `but` to be really good in areas such as music,
+        art or sport, then some natural talent is required.
+    J - different forms of a word  
+        improve vs improvment
+    K - of + abstract words
+        Of crucial importance is, in my view, how we define "responsible for bringing the children up".
+    L - Some technology, such as weapons of mass destruction are of negative impact
+    M - ()
+    N - the + adj.
+        The rich, the wealthy, the poor, the needy, the elderly, the unemployed, the weak, the neglected
+        We should encourage children to are for the poor and the needy.
+```  
+### Day 5 
+
+### Day 6 36 and 63
+- promote the development of 
+- boost efficiency/productivity
+- play a pivotal role in...
+
+
+## 慎小嶷.十天突破新托福_essays_2010.v2.pdf
+- Contrarily
+
+## 小嶷作文写作班专用教材.seaside
+  - writing tips
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [Detective writing]
 - the following: 
 - one (the only one)"
@@ -242,3 +316,6 @@ I have not heard if there’s anything you can do in terms of disputing Forte fe
 Other than that, I would say be mindful of whom you request Forte feedback from. I’ve gotten pretty un-useful and irrelevant feedback in the past and realized I probably shouldn’t have requested feedback from those particular people. Additionally, I hope there was still some helpful/relevant feedback for you. I think Forte feedback is really up to you on how you want to take it. I only take action on feedback that resonates with me, and pretty much ignore the rest (as they didn’t have useful datapoints). I would say it’s up to you on how you want to take/accept the feedback, and use it for growth (which is the point). If some of it doesn’t resonate with you, I would just ignore it, and continue to work closely w/ your manager. Hope this helps!
 
 ----------------
+
+Based on the title of this ticket I can try to get information in us-cent-1 but are there particular regions these accounts have a graph?
+
