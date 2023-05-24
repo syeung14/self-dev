@@ -4,14 +4,14 @@ https://www.youtube.com/watch?v=XMPgVZtADtQ&ab_channel=7clouds
 
 https://www.youtube.com/watch?v=Dd9W3PthynU
 
-When your legs `don't work-like` they used to before    [I `dont know]
-And I can't `sweep-you off-of your feet`                [I can't do it][cup-of coffee]
+When your legs `don't work-like` they used to before    [I `dont know][wor`kine]
+And I can't `sweep-you off-of your feet`                [I can't do it][cup-of coffee][of-fa-yoa feet]
 Will your mouth still remember the taste of my love
 Will your eyes still smile from your cheeks
 
 And darling I will be loving you 'til we're 70
-And baby my heart `could still fall-as hard` at 23       [hard != heart]
-And `I'm thinking-'bout how` people fall-in love in mysterious ways
+And baby my heart `could still fall-as hard` at 23       [hard != heart][fall-`las]
+And `I'm thinking-'bout how` people fall-in love in mysterious ways     [fall-lin]
 Maybe just the touch of a hand
 Oh me I fall-in love with you every single day
 And I just wanna tell you I am
@@ -19,8 +19,8 @@ And I just wanna tell you I am
 So honey now
 Take me into your loving arms
 Kiss me under the light of a thousand stars
-Place your head on my beating heart    [..art]
-I'm thinking-out loud                  [loud vs now][light vs night]
+Place your head on my beating heart         [..art]
+I'm thinking-out loud                       [loud vs now][light vs night]
 Maybe we found love right where we are
 
 When my `hair's all but gone` and my memory fades
@@ -40,7 +40,7 @@ But baby now
 Take me into your loving arms
 Kiss me under the light of a thousand stars
 Place your head on my beating heart
-I'm thinking out loud
+I'm thinking-out loud              [now]
 That maybe we found love right where we are, oohhh
 
 So baby nowww

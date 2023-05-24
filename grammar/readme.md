@@ -1,4 +1,7 @@
 [writing]
+https://docs.google.com/document/d/10JptAAsrtYDdp-UJ61M_4NxSNF-8zsLGvYhGG_IBrow/edit#heading=h.michodo2du9o
+[standup](https://docs.google.com/document/d/1_keB1EJtXRYx2U9zk0cCnT1dLGwbn48G175ZGP2M8Qs/edit#heading=h.kc2a7il5t33g)
+#
 https://docs.google.com/document/d/1s5d83eyUxmY1YUrp3TqSmIi5sdwjYPhga9GEQuufNVc/edit
 
 2nd

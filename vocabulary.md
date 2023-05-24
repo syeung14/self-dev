@@ -45,7 +45,7 @@ make it evident
 I'm sure I'll be able to learn so much from this fantastic group
 
 endorphin:
-dopamine: 
+dopamine: neurotransmitter in the brain
 
 blip:
 spike:
@@ -76,6 +76,9 @@ DfD:
 A date for a date is a common term in technology companies for the date by which you expect to have determined another date.x
 
 ECD: estimated completion date
+
+middle
+
 
 a swarm of
 enormous amounts of

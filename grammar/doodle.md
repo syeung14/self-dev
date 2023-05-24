@@ -16,10 +16,7 @@ worthwhile.......give sb., the credit for.
 once in a while....
 
 
-
-
 fall glaringly
-
 
 inconceivable
 inconceivable
@@ -43,3 +40,6 @@ when they are much younger
 
 Overall, I think an ability to keep their perspective in life is a more essential factor in achieving happiness.
 
+wind down
+turn off the TV at a set time
+set your alarm clock appropriately

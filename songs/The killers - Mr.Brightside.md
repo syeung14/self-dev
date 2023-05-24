@@ -33,7 +33,7 @@ Now they're going to bed and my stomach is sick
 And it's all in my head, but she's touching his
 
 Chest now, he takes off her
-Dress now, let me go
+Dress now, let meeeeeeeee gggggggo
 'Cause I just can't look, it's killing me
 They're taking control
 
