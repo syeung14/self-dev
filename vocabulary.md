@@ -79,8 +79,20 @@ ECD: estimated completion date
 
 middle
 
+negligible ()
+indomitable
+It's incomparable to anything else
+nothing compares to ____
+for the cost nothing comes close to ____
+indomitable
+will be on the engineers themselves
+there's no doubt this is the best solution
+especially when it comes to the cost
+there's nothing that comes close
 
-a swarm of
+
+I can't think of off the top of my head 
+a swarm of / a slew of
 enormous amounts of
 small amounts 
 colossal amounts
@@ -88,6 +100,27 @@ colossal amounts
 ... large amounts of binary data. 
 Similarly, clobs, represented by the CLOB datatype, hold large amounts of text data..
 
+Cleanup is a noun or an adjective. Clean up is a verb phrase.
+Followup (n,adj) vs follow up (v)
+
+there are lists of files, there is a list of files.
+
+the source of the data (where the data is from); the source data (the specific type of).
+
+help, can we use "to" or not - usually without "to" is more common.
+He helped me carry the boxes; He helped me to carry the boxes.
+
+
+What were these items that we re-drove in the write queue?
+Why were they DLQed to begin with?
+
+on par: at the same level or standard as (someone or something else)
+
+The difference between ‘are you aware’ and ‘do you aware’ is that first one is correct while the second one is incorrect.
+```
+Are you aware? {Here one person is asking other person whether he is aware of the matter being discussed or not}
+Do you aware? {this sentence is grammatically incorrect so doesn't convey any meaning}
+```
 
 
 https://www.urbandictionary.com/define.php?term=Loc%27d

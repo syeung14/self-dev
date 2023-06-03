@@ -17,7 +17,7 @@ Me be treated-like-a punk, you know that's-unheard-of     [that'sun-heard-of[]
 You better watch how you're talkin', and where you're walkin'
 Or you and your homies might be lined-in chalk    [line-din]   [dead scene]
 
-I really hate `to trip` but I gotta `loc`  [tuh-trip][describes the actual taking of drugs][trip-upset/sth-off]
+I really hate `to trip` but I gotta `loc`  [tuh-trip][describes the actual taking of drugs][trip-upset/sth-off/act crazy/lose yo cool/overreact]
                                                     [to form into dreadlocks][gangstered up.]
 As they `croak`, I see myself in the pistol smoke, fool    [croak:to die/to speak in a hoarse throaty voice]
 I'm the `kinda G` the little homies wanna be like       [little -> liddle]

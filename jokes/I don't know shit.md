@@ -16,11 +16,13 @@ but if I give A shit, Well, then I care!
 
 And if I take shit-- if I take shit, then I accept that you are bullying me,
 but if I take A shit...
-I-- I take a shit.
+I-- I take a shit. (go to poop)
 
 And I learned that my shit is always good and positive, but you're shit, his shit, her shit - always bad.
 Like, "I can't deal with her shit; I have to `put up with` his shit; Clean up your shit;
 But don't touch my shit!"
+
+
 And-- and then I learned that, uh, that if somebody says I have shit to do,
 it can refer to any activity,
 whatsoever.

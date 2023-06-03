@@ -2,12 +2,12 @@ https://genius.com/Eminem-lose-yourself-lyrics
 https://www.youtube.com/watch?v=7YuAzR2XVAM
 https://www.youtube.com/watch?v=aV8GCQ34biA&ab_channel=HIPHOPMIX
 
-https://www.youtube.com/watch?v=ylFjzKwrhzo
+https://youtu.be/ylFjzKwrhzo?t=29
 
 [Intro]
-Look, if you had one shot or one opportunity
-To seize everything you ever wanted in one moment
-Would you capture it, or just let it slip? Yo
+Look, --- if you had --- one shot -- or one opportunity
+To seize everything you ever wanted --- in one moment
+Would you capture it, -- or just let it slip? Yo
 
 [Verse 1]
 His palms are sweaty, knees weak, arms are heavy
@@ -18,11 +18,11 @@ What he wrote down, the whole crowd goes so loud
 He opens his mouth, but the words won't come out
 He's choking, how? Everybody's joking now
 The clock's run out, time's up, over, `blaow`
-`Snap` back to reality, `ope` there goes gravity, ope        [slap] [night, light]
+`Snap` back to reality, `ope` there goes gravity, ope        [slap] [night, light][ope=open]
 There goes Rabbit, he choked, he's so mad but he won't
 Give up that easy, no, he won't have it, he knows
 His whole back's to these ropes, it don't matter, he's `dope`
-He knows that but he's broke, he's so `stagnant`, he knows
+He knows that, but he's broke, he's so `stagnant`, he knows
 When he goes back to this `mobile` home, that's when it's
 `Back to` the lab again, yo, this old `rhapsody`
 Better go capture this moment and hope it don't pass him, and

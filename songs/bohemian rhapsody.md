@@ -9,7 +9,7 @@ Is this just fantasy?
 Caught in a landside,
 No escape from reality
 Open your eyes,
-Look up to the skies and see,
+Look up to the skies and seeeeeeeeeeeeeee,
 I'm just a poor boy, I need no `sympathy`,  [同情]
 Because I'm easy come, easy go,
 Little high, little low,
