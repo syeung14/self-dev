@@ -79,14 +79,14 @@ next part you're gonna need a horse so try this area if you haven't already spot
 `sneak up and mount` one, and many in this area don't even `need to be calmed down` to ride,  
 then take your new shiny horse up to this stable in the northwest. I'm using a different stable  
 in this footage but go to the one Northwest of Lookout Landing, register that horse by talking  
-to the guy at the counter which will give you a `pony points card` then if you happen to have  
-breath of the wild save data on your system, board that horse at the stable which allows you  
+to the guy at the counter which will give you a `pony points card` then if `you happen to have ` 
+`breath of the wild` save data on your system, board that horse at the stable which allows you  
 to then take out any breath of the wild horses that you saved at the Stables from that game, 
 this could get you `a much higher tier horse` than you could possibly find near the starting area,
 now still at that same stable that you're at, walk inside and talk to the vendor to sleep there,
-that should give you enough Pony points to unlock the `towing harness`, from The Stables catalog
+that should give you enough Pony points to unlock the `towing harness` from The Stables catalog
 this allows you to stick things onto the back of your horse which we will be putting  
-to use for combat purposes, from that stable head really close by Northwest despite your  
+to use for combat purposes, from that stable `head really close by` Northwest despite your  
 
 Find Hestu
 
@@ -98,13 +98,13 @@ to go, up to you, then we're gonna take our Towing horse to this spot east of Lo
 
 Laser Guns?
 
-this Pond, you'll have to kill a few enemies and then you'll find a device that shoots laser beams  
-there might be one or two there so attach those to your horse we're gonna use them as guns, we are  
-unlike fusing one of these to a weapon or Shield which will quickly break them, you can indefinitely  
+this Pond, you'll have to kill a few enemies and then you'll find a device that `shoots laser beams`
+there might be one or two there, so attach those to your horse, we're gonna use them as guns, we are  
+unlike `fusing` one of these to a weapon or Shield which will quickly break them, you can indefinitely  
 use these just on their own which only consumes your battery energy which comes back over time,
-you'll find it's a lot easier to aim these things if you use your Ultra hand ability to pick them up,
+`you'll find it's a lot easier` to aim these things if you use your Ultra hand ability to pick them up,
 combine multiples of these to increase the damage `at the cost of faster energy drain`  
-now you can haul these things around the  map and death star blast entire outposts  
+now you can haul these things around the  map and `death star` blast entire outposts  
 with your makeshift laser cannon, put it back onto your horse and onto the next spot  
 you can also use your bow to turn around and shoot to activate those while you're riding,
 this is kind of like aiming a battleship but on land with a horse with lasers  
@@ -112,7 +112,7 @@ this is kind of like aiming a battleship but on land with a horse with lasers
 Find Pristine Weapons
 
 next part, head to this spot directly south of Lookout Landing if you want some stronger melee
-weapons, head down into the giant ominous hole in the ground and use your paraglider as soon  
+weapons, head down into the giant `ominous hole` in the ground and use your paraglider as soon  
 as you open up into the underground area, head over to this location close by to the Northeast,
 you'll see a shadowy figure holding a weapon and another one close by, unlike most of the weapons on  
 the surface that are all rusted and degraded, these weapons are in pristine condition and have higher  

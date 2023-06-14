@@ -57,9 +57,12 @@ lost cause
 Smh (Shaking my head)
 Garden Leave
 
+red herring []
+
 cunning
 decorum - etiquette
 due diligence
+preliminary
 
 mediocrity
 
@@ -100,6 +103,13 @@ colossal amounts
 ... large amounts of binary data. 
 Similarly, clobs, represented by the CLOB datatype, hold large amounts of text data..
 
+Over the course of a job's lifetime, .....
+
+Im used to the American way of life now....
+
+
+
+
 Cleanup is a noun or an adjective. Clean up is a verb phrase.
 Followup (n,adj) vs follow up (v)
 
@@ -124,3 +134,5 @@ Do you aware? {this sentence is grammatically incorrect so doesn't convey any me
 
 
 https://www.urbandictionary.com/define.php?term=Loc%27d
+
+

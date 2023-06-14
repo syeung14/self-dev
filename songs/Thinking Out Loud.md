@@ -13,8 +13,8 @@ And darling I-- will-- be loving you-- 'til we're 70
 And baby my-- heart `could still fall-as-- hard` at 23       [hard != heart][fall-`las]
 And `I'm thinking-'bout how--` people fall-in love in mysterious ways     [fall-lin]
 Maybe just the touch of-a hand
-Oh me I fall-in love with-- you every single day
-And I just wanna tell you I am
+Oh me I fall-in love withhh you every single day
+And I just wanna tell you I ammmmmm
 
 So honey nowwwwwww
 Take me into your loving arms
@@ -31,7 +31,7 @@ I know you-will [you'll] still love me the same
 'Cause honey your-- soul can never grow--  old, it's evergreen
 Baby your-- smile's forever in-- my mind-- and memory
 
-I'm thinking-'bout- how- people fall-in love in mysterious ways
+I'm thinking-'bout-- how- people fall-in love in mysterious ways
 Maybe it's all part of a plannnnnnnnnnn
 I'll just keep on making the same-- mistakes
 Hoping that you'll understandddd.
