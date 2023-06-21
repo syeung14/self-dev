@@ -129,7 +129,7 @@ to find a great fairy fountain in order to start upgrading your armor, take your
 all the way along this road to the Northwest right by Rito Village to find the lucky clover Gazette,  
 except the quest that the lady in there gives you and then fast travel back to Lookout Landing then  
 you're gonna head Northeast to Woodland stable here you'll find the Pelican guy that you maybe  
-met in Lookout Landing and this music group `in need of help` they ask you to fix up their broken  
+met in Lookout Landing and this music group `in need of help` they ask you to `fix up` their broken  
 wagon and you are gonna do so by giving it some fresh new Wheels attach that to your horse and  
 then take them up the left fork in the road to the nearby fairy fountain with `the puff of` pink smoke  
 

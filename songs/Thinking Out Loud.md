@@ -11,9 +11,9 @@ Will your eyes still smile from your cheeks
 
 And darling I-- will-- be loving you-- 'til we're 70
 And baby my-- heart `could still fall-as-- hard` at 23       [hard != heart][fall-`las]
-And `I'm thinking-'bout how--` people fall-in love in mysterious ways     [fall-lin]
+And `I'm thinking-'bout-- how--` people fall-in love in mysterious ways     [fall-lin]
 Maybe just the touch of-a hand
-Oh me I fall-in love withhh you every single day
+Oh me I fall-in love withhh you every sin-gle day
 And I just wanna tell you I ammmmmm
 
 So honey nowwwwwww

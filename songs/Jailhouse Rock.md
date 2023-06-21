@@ -14,7 +14,7 @@ Was dancin' to the Jailhouse Rock
 
 Spider Murphy played the tenor `saxophone`  [男高音（歌手,）主旨，大意]
 Little Joe was blowin' on the `slide trombone`
-The `drummer` boy from Illinois went crash, boom, bang
+The `drummer` boy `from Illinois` went crash, boom, bang
 The whole rhythm section was a purple gang
 
 Let's rock
@@ -32,7 +32,7 @@ Everybody, let's rock
 Everybody in the whole cell block
 Was dancin' to the Jailhouse Rock, Rock, Rock
 
-`Sad Sack` was sittin' on a block of stone   [a blundering, inept person]
+`Sad Sack` was sittin' on `a block of stone`   [a blundering, inept person]
 Way over in the corner weepin' all alone
 The warden said, "Hey, buddy, don't you be no square
 If you can't find a partner, use a wooden chair"

@@ -7,6 +7,9 @@ https://docs.google.com/document/d/1s5d83eyUxmY1YUrp3TqSmIi5sdwjYPhga9GEQuufNVc/
 2nd
 https://docs.google.com/document/d/18Q5Xp2Xg-0NC9CktGFWWnpX8pgY2M1YGLuMutyqP_Qs/edit#heading=h.k6lvgqhwlfg7
 
+3nd - kara
+https://docs.google.com/document/d/1jF5yO1E1wc61DXFSX7z9ssm3aap_SSWTO_sAxH1Xt-E/edit
+
 [grammar]
 https://test-english.com/grammar-points/a1/a-an-the-no-article/
 https://test-english.com/grammar-points/b1/review-verb-tenses-b1/

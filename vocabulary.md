@@ -66,6 +66,8 @@ preliminary
 
 mediocrity
 
+in a devastating and unprecedented report
+
 starve out
 pan out 
     - end up; conclude.
