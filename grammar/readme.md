@@ -23,17 +23,18 @@ https://www.grammarly.com/grammar#sectionGroup_6iKEWxDNd9Glgyj522RuVP
 https://www.grammarly.com/blog/search/phrasal%20verbs
 
 
+https://www.flo-joe.co.uk/fce/students/tests/index.htm
+
+
 []
 https://www.englishclub.com/writing/
 https://englishgrammarhere.com/speaking/1000-most-common-english-phrases-pdf/
-
 
 
 [Nina example]
 I will only have had it for 2 months if you want me to turn it in this week.
 She will be doing that
 She'll have done that before she retires
-
 
 ## [email like a boss]
 Thanks for your patience?
@@ -46,3 +47,5 @@ When can I expect an update?
 Thanks for letting me know.
 I will need to leave for at...
 
+
+https://www.flo-joe.co.uk/fce/students/tests/FCE-Part-2-Open-Cloze.htm

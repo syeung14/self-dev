@@ -114,6 +114,8 @@ Im used to the American way of life now....
 
 Cleanup is a noun or an adjective. Clean up is a verb phrase.
 Followup (n,adj) vs follow up (v)
+layout (n) vs lay out (v)
+
 
 there are lists of files, there is a list of files.
 

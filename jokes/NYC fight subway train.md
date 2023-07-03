@@ -1,5 +1,8 @@
 https://www.youtube.com/watch?v=ifX0oafDe3Q
 
+Has anyone been to New York?
+has anyone taken a subway train in New York?
+
 New York City is the only city I've lived in where people fight subway trains and.....win.
 Like, any other city on the planet, when the trains doors start to close, (beeping), that means that train is departed. Okay, you're supposed to 
 shut up and wait patiently for the next train. 
@@ -34,8 +37,8 @@ It's the A-C-E line in Manhattan. all right, if you let this go, We will all get
 But he's like NO, this is the one, man. This is the last train everrrrrrrrrrrr........ 
 And he fought the train, for like four more seconds, and he won. the train `tapped out (giving up)`. 
 
-the `train` was like.. alright. Gotta respect your ground game and [3:15] just full mount to omoplata is out of control, anyone else want to run in here 
-at the last minutes? It's not like there is train schedule to keep or anything. 
+the `train` was like.. alright. Gotta respect your ground game and [3:15] just full mount to omoplata is out of control, 
+anyone else want to run in here at the last minutes? It's not like there is train schedule to keep or anything. 
 
 And that's the problem with America.,  Right there, too many civil liberties, 
 It's too much freedom here. You guys took your bill of rights (1st amendment) and just ran with it (take it & make it important). 
