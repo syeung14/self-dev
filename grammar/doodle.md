@@ -43,3 +43,14 @@ Overall, I think an ability to keep their perspective in life is a more essentia
 wind down
 turn off the TV at a set time
 set your alarm clock appropriately
+
+
+fast and hard rule
+tailor 
+consulation
+ramification
+
+
+uniqueness
+
+
